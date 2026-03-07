@@ -4,7 +4,7 @@ compatibility_date = "2025-01-01"
 
 # Disable previews (required for Durable Objects)
 workers_dev = true
-preview_urls = false
+preview_urls = true
 
 # Route to voxwise.ai domain
 routes = [
